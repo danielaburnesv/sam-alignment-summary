@@ -29,7 +29,7 @@ Developed as a collaborative academic project with Virgilia Olivé as part of th
 ## Usage
 
 ```bash
-bash code.sh file1.sam [file2.sam ...]
+bash sam-alignment-tool.sh file1.sam [file2.sam ...]
 ```
 
 The Assembly Report is detected automatically from the working directory. SAM files are passed as arguments (case-insensitive `.sam` extension matching).
